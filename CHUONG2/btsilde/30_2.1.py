@@ -1,0 +1,5 @@
+a=input('Ho ten: ')
+b=int(input('Tuoi: '))
+print('Ho ten: ',a)
+print('Tuoi: ',b)
+print('Chao ban '+str(a)+', chuc mung sinh nhat thu '+str(b)+'!!!')
